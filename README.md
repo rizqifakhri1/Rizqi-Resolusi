@@ -1,2 +1,2 @@
 # Rizqi-Resolusi
-Repossitory untuk menyimpan rencana rizqi kedepannya
+Repository untuk menyimpan rencana rizqi kedepannya
